@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/maven_web" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_web_idea" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_web_plugin" />
+    <file type="web" url="file://$PROJECT_DIR$/micro-shop/order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/micro-shop/user-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/maven_java/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_web/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_web_plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_web_idea/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_B/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_A/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_C/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-shop/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17.0.2" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
